@@ -17,7 +17,7 @@ This is a simple To-Do List web app built using HTML, CSS, and JavaScript, with 
 
 ## Preview
 
-![To-Do List App Preview](https://via.placeholder.com/600x400) *(Screenshot placeholder)*
+![To-Do List App Preview](images/to-do-list.png) 
 
 ## Setup Instructions
 
