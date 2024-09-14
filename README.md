@@ -59,7 +59,5 @@ This is a simple To-Do List web app built using HTML, CSS, and JavaScript, with 
 - **Persistent storage**: Use localStorage to save tasks even after closing the browser.
 - **Task editing**: Add the ability to edit tasks in the list.
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
 
